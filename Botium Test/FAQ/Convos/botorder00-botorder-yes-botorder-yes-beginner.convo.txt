@@ -1,0 +1,31 @@
+bot.order00 - bot.order - yes - bot.order - yes - beginner
+
+#me
+bot.order00
+
+#bot
+botorder - askindustry - output
+
+#me
+$industry
+
+#bot
+botorder - askplatform - output
+
+#me
+$platform
+
+#bot
+bot.order - output
+
+#me
+bot.order - yes
+
+#bot
+bot.order - yes - output
+
+#me
+bot.order - yes - beginner
+
+#bot
+bot.order - yes - beginner - output

@@ -1,0 +1,19 @@
+bot.order11 - bot.order - yes - bot.order - yes - beginner
+
+#me
+bot.order11
+
+#bot
+bot.order - output
+
+#me
+bot.order - yes
+
+#bot
+bot.order - yes - output
+
+#me
+bot.order - yes - beginner
+
+#bot
+bot.order - yes - beginner - output
