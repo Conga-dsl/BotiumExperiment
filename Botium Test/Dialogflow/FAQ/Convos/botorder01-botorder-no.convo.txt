@@ -1,0 +1,19 @@
+bot.order 01 - bot.order - no
+
+#me
+bot.order01
+
+#bot
+botorder - askindustry - output
+
+#me
+$industry
+
+#bot
+bot.order - output
+
+#me
+bot.order - no
+
+#bot
+bot.order - no - output

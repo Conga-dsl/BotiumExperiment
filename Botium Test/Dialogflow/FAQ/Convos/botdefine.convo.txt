@@ -1,0 +1,6 @@
+bot.define
+
+#me
+bot.define
+
+#bot
