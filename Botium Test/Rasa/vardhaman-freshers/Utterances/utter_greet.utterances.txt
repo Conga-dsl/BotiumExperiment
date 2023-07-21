@@ -1,0 +1,2 @@
+utter_greet
+Welcome to Vardhaman College of Engineering. This is VBot,how can I help you?   Do Type suggestion to know what VBot has to offer

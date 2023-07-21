@@ -1,0 +1,15 @@
+me_ce
+direction to mech block
+direction to civil block
+direction to mech and civil block
+direction to mechanical block
+direction to civil block
+mechanical block
+civil  block
+mechanical block
+civil block
+how to go to mech block
+how to go to civil block
+how to go to mech and civil block
+direction to me block
+direction to ce block
