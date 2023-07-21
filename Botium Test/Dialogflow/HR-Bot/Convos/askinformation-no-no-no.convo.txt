@@ -1,0 +1,25 @@
+ask_information - no - no - no
+
+#me
+ask_information
+
+#bot
+ask_information - output 0
+
+#me
+no
+
+#bot
+ask_information_no - output 0
+
+#me
+no
+
+#bot
+ask_information_no_no - output 0
+
+#me
+no
+
+#bot
+ask_information_no_no_no - output 0

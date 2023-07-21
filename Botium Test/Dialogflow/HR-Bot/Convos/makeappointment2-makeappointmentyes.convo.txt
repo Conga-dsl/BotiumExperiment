@@ -1,0 +1,25 @@
+make_appointment2 - make_appointment_yes
+
+#me
+make_appointment2
+
+#bot
+askdate - output 0
+
+#me 
+$date
+
+#bot
+asktime - output 0
+
+#me 
+$time
+
+#bot
+make_appointment - output 0
+
+#me
+yes
+
+#bot
+make_appointment_yes - output 0

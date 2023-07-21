@@ -1,0 +1,59 @@
+ASKINFORMATION
+
+* Can you explain the recruiting process?
+
+yes
+
+done
+
+
+* Can you explain the recruiting process?
+
+no  - It was great talking to you. Do you want to raise a service request?
+
+yes - What is your employee id?, Please provide the description of your issue, Enter your email id - We have raised a service request. Do you want an email confirmation?
+
+yes - What is your employee id? - Confirmation has been sent to your email. Do you want to provide your feedback?
+
+yes - ask userid and feedback - Your feedback has been recorded. Have a good day!
+
+
+* Can you explain the recruiting process?
+
+no - It was great talking to you. Do you want to raise a service request?
+
+yes - What is your employee id?, Please provide the description of your issue, Enter your email id - We have raised a service request. Do you want an email confirmation?
+
+yes - What is your employee id? - Confirmation has been sent to your email. Do you want to provide your feedback?
+
+no - Thank you! Have a good day!
+
+* Can you explain the recruiting process?
+
+no - It was great talking to you. Do you want to raise a service request?
+
+yes - What is your employee id?, Please provide the description of your issue, Enter your email id - We have raised a service request. Do you want an email confirmation?
+
+no - Thank you. Do you want to provide your feedback?
+
+yes - What is your employee id?, Please enter your feedback - Your feedback has been recorded. Have a good day!
+
+
+* Can you explain the recruiting process?
+
+no - It was great talking to you. Do you want to raise a service request?
+
+yes - What is your employee id?, Please provide the description of your issue, Enter your email id - We have raised a service request. Do you want an email confirmation?
+
+no - Thank you. Do you want to provide your feedback?
+
+no - Thank you! Have a good day!
+
+
+* Can you explain the recruiting process?
+
+no - It was great talking to you. Do you want to raise a service request?
+
+no - Do you want to provide a feedback?
+
+no - It was great talking to you. Have a nice day!

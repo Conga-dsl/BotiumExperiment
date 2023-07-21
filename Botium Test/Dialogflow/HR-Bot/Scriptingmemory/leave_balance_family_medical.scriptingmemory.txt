@@ -1,0 +1,2 @@
+    |$leave_balance_family_medical
+leave_balance_family_medical1|paid family and medical leave balance

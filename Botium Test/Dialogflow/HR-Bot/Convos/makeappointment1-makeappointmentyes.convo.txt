@@ -1,0 +1,13 @@
+make_appointment1 - make_appointment_yes
+
+#me
+make_appointment1
+
+#bot
+make_appointment - output 0
+
+#me
+yes
+
+#bot
+make_appointment_yes - output 0

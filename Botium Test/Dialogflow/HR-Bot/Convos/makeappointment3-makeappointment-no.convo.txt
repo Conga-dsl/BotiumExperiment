@@ -1,0 +1,19 @@
+make_appointment3 - make_appointment-no
+
+#me
+make_appointment3
+
+
+#bot
+asktime - output 0
+
+#me 
+$time
+
+#bot
+make_appointment - output 0
+
+#me
+no
+
+#bot

@@ -1,0 +1,5 @@
+  |$language
+l1|mandarin
+l2|spanish
+l3|German
+l4|French

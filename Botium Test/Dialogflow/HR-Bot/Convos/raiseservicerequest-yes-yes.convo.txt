@@ -1,0 +1,53 @@
+raise_service_request - yes - yes
+
+#me
+raise_service_request
+
+#bot
+askempid - output 0
+
+#me
+$userid
+
+#bot
+askissue - output 0
+
+#me
+$issue
+
+#bot
+askemail - output 0
+
+#me
+$email
+
+#bot
+raise_service_request - output 0
+
+#me
+yes
+
+#bot
+askempid - output 0
+
+#me
+$userid
+
+#bot
+
+#me
+yes
+
+#bot
+askempid - output 0
+
+#me
+$userid
+
+#bot
+askfeedback - output 0
+
+#me
+$feedback
+
+#bot

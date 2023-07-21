@@ -1,0 +1,59 @@
+retrieve_information - no - yes - yes - no
+
+#me
+retrieve_information
+
+#bot
+askempid - output 0
+
+#me
+$userid
+
+#bot
+
+#me
+no
+
+#bot
+retrieve_information_no - output 0
+
+#me
+yes
+
+#bot
+askempid - output 0
+
+#me
+$userid
+
+#bot
+askissue - output 0
+
+#me
+$issue
+
+#bot
+askemail - output 0
+
+#me
+$email
+
+#bot
+retrieve_information_no_yes - output 0
+
+#me
+yes
+
+#bot
+askempid - output 0
+
+#me
+$userid
+
+#bot
+
+#me
+no
+
+#bot
+retrieve_information_no_yes_yes_no - output 0

@@ -1,0 +1,13 @@
+ask_information - yes
+
+#me
+ask_information
+
+#bot
+ask_information - output 0
+
+#me
+yes
+
+#bot
+ask_information_yes - output 0

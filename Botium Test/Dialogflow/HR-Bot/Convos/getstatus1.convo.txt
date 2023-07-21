@@ -1,0 +1,7 @@
+get_status1
+
+#me
+get_status1
+
+#bot
+get_status - output 0

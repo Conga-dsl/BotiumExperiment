@@ -1,0 +1,13 @@
+a_log_status1
+
+#me
+log_status1
+
+#bot
+askstatus - output 0
+
+#me
+$status
+
+#bot
+log_status - output 0

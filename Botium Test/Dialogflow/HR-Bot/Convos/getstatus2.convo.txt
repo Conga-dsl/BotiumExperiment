@@ -1,0 +1,13 @@
+get_status2
+
+#me
+get_status2
+
+#bot
+askempid - output 0
+
+#me
+$userid
+
+#bot
+get_status - output 0
