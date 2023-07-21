@@ -1,0 +1,5 @@
+Get Employee ID
+The ID is $employeeID
+Employee ID $employeeID
+$employeeID is my ID
+My Employee ID is $employeeID

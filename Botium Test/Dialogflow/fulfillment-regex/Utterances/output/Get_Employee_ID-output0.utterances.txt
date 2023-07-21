@@ -1,0 +1,2 @@
+Get Employee ID - output 0
+Thanks, I have noted down your Employee ID which is $employeeID. Can you please confirm if this is correct?

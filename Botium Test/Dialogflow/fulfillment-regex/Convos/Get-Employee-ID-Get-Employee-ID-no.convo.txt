@@ -1,0 +1,14 @@
+Get Employee ID - Get Employee ID - no
+
+#me
+Get Employee ID
+
+#bot
+Get Employee ID - output 0
+
+#me
+Get Employee ID - no
+
+#bot
+Get Employee ID - no - output 0
+

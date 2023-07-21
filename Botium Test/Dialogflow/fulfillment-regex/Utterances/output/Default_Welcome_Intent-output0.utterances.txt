@@ -1,0 +1,5 @@
+Default Welcome Intent - output 0
+Hi! Welcome to Employee Assistant. Can you please tell me your Employee ID?
+Hello! Welcome to Employee Assistant. Can you please tell me your Employee ID?
+Good day! Welcome to Employee Assistant. Can you please tell me your Employee ID?
+Greetings! Welcome to Employee Assistant. Can you please tell me your Employee ID?
