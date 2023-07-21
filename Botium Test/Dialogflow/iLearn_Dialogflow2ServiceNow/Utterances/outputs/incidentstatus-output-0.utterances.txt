@@ -1,0 +1,2 @@
+incident.status - output 0
+Okay, please provide your ticket number.

@@ -1,0 +1,12 @@
+incident.create - incident.create.details
+
+#me
+incident.create
+
+#bot
+incident.create - output 0
+
+#me
+incident.create.details
+
+#bot

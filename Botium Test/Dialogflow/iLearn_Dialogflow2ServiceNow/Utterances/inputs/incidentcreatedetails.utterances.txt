@@ -1,0 +1,4 @@
+incident.create.details
+$username and $description
+$username, $description
+$username and $description

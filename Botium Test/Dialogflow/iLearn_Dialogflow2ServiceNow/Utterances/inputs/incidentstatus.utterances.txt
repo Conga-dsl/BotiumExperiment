@@ -1,0 +1,4 @@
+incident.status
+check on status of my ticket
+i would like status on my incident
+what is the status of my ticket

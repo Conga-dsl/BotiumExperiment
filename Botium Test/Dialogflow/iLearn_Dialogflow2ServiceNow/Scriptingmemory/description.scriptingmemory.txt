@@ -1,0 +1,4 @@
+	|$description
+description1|my mobile phone will not turn on
+description2|my laptop has a blue screen
+description3|need to reset my password

@@ -1,0 +1,12 @@
+incident.status - incident.status.number
+
+#me
+incident.status
+
+#bot
+incident.status - output 0
+
+#me
+incident.status.number
+
+#bot

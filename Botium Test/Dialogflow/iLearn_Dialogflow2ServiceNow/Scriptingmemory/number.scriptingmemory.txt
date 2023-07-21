@@ -1,0 +1,5 @@
+	|$number
+number1|INC0010029
+number2|59
+number3|INC0010060
+number4|30
