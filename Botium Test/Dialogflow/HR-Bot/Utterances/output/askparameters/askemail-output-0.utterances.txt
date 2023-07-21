@@ -1,0 +1,3 @@
+askemail - output 0
+Enter your email id
+Enter your email

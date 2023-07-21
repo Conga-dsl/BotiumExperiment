@@ -1,0 +1,2 @@
+askstatus - output 0
+What is your status?

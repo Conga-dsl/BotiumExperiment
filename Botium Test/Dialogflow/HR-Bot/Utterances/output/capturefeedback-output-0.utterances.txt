@@ -1,0 +1,9 @@
+capture_feedback - output 0
+Thank you for the valuable feedback!
+Webhook failed: please try again later.
+I am sorry. I didn't get that. How can I help?
+Error 404
+Fail to connect to the server
+Network connection fail. Please try later
+We are not able to collect feedback this time due to server problem. Please try later
+Your feedback has been recorded. Have a good day!

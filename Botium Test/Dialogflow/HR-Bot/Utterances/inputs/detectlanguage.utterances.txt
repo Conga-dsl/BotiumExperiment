@@ -1,0 +1,5 @@
+detect_language
+I know a little $language
+I can speak $language
+I know $language
+i speak $language

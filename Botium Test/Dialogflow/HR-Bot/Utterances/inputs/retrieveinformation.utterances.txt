@@ -1,0 +1,26 @@
+retrieve_information
+please provide the $hours_worked
+Please provide my $salary
+What $leave_balance_family_medical do I have?
+I want my $salary
+Please provide my $salary
+$hours_worked of my work this year
+what is my $leave_balance_family_medical?
+I want to know the number of $hours_worked  this year
+I want to know $salary
+$salary
+How much I $salary this year?
+My $salary?
+What is my $leave_balance_wellness?
+What is my $salary for this year?
+Please provide details for my $leave_balance_family_medical?
+Can you tell me what my $salary is?
+How many leave I am left with for the $leave_balance_wellness?
+Please provide the details for my $salary?
+Please provide the details for my $leave_balance_wellness?
+My $leave_balance_wellness
+Can you tell me what my $salary is?
+how many $hours_worked have I worked this year?
+what is my $salary?
+What is my $leave_balance_family_medical?
+What is my $leave_balance_wellness?

@@ -1,0 +1,7 @@
+log_status2
+save to database
+fill my diary
+save my condition
+write an entry
+record my status
+log my status

@@ -1,0 +1,4 @@
+get_status - output 0
+Mmm... our servers seem to be offline at the moment.
+Mmm...we don't have any records for that user.
+Status at $gs-value1 on $gs-value2: $gs-status

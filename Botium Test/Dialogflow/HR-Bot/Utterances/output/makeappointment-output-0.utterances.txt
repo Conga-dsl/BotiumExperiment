@@ -1,0 +1,5 @@
+make_appointment - output 0
+Are you sure you want to make a booking for $date(YYYY-DD-MM)?
+Are you sure you want to make a booking for $date(YYYY-DD-MM)T12:00:00-04:00?
+Are you sure you want to make a booking for $date(YYYY-MM-DD)?
+Are you sure you want to make a booking for $date(YYYY-MM-DD)T12:00:00+01:00?

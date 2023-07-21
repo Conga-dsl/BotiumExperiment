@@ -1,0 +1,2 @@
+asktime - output 0
+What time?

@@ -1,0 +1,2 @@
+ask_information_no_yes- output 0
+We have raised a service request. Do you want an email confirmation?

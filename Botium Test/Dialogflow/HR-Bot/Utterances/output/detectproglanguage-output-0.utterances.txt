@@ -1,0 +1,2 @@
+detect_prog_language - output 0
+Neat, how long have you known $programmingLanguage

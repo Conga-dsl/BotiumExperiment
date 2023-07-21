@@ -1,0 +1,2 @@
+ask_information_no_yes_yes - output 0
+Confirmation has been sent to your email. Do you want to provide your feedback?

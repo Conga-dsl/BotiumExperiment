@@ -1,0 +1,2 @@
+log_status1
+user $userid log my status

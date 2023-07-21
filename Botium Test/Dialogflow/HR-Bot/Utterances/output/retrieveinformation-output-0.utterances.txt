@@ -1,0 +1,5 @@
+retrieve_information - output 0
+Your current salary is : $salary. Do you need any other information?
+At the beginning of the year, your Paid Family and Medical Leave balance was : $value1. Now, your Paid Family and Medical Leave balance is : $value2. Do you need any other information?
+You have worked a total of $hours1 hours this year. Do you need any other information?
+At the beginning of the year, your Wellness Days leave balance was : $value3. Now, your Wellness Days balance is : $value4. Do you need any other information?

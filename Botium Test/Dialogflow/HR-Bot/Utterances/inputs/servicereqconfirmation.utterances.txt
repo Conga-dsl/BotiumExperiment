@@ -1,0 +1,21 @@
+servicereq_confirmation
+Can you provide any $service_request?
+Please provide $service_request
+How to make sure that the $service_request is confirmed?
+I want a confirmation of my $service_request
+Is there is any way to confirm my $service_request?
+please provide an $service_request
+please provide an email confirmation of my $service_request
+Request for $service_request
+How to confirm my $service_request?
+Any $service_request?
+$service_request
+$service_request
+Send me a $service_request
+How to confirm my $service_request?
+Can u provide an email confirmation of my $service_request?
+Require an email confirmation of my $service_request
+Send me an $service_request
+Can u provide an $service_request?
+I need an email confirmation of my $service_request
+Send me an email confirmation of my $service_request

@@ -1,0 +1,4 @@
+detect_language - output 0
+From console: Nice, I hear $language is hard to learn!
+From webhook: I hear is hard to learn!
+"From webhook: I hear $language is hard to learn!

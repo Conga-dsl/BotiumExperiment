@@ -1,0 +1,3 @@
+get_status1
+get status nr $userid
+look up a value for user $userid

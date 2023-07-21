@@ -1,0 +1,50 @@
+ask_information - output 0
+BU recognizes that faculty and staff may need time away from work for personal medical and family concerns.
+
+To provide peace of mind as employees juggle home and work demands, BU is proud to announce new $family_medical_info benefits effective January 1, 2021.
+
+For more details, visit: https://www.bu.edu/hr/manager-resources/paid-family-and-medical-leave-benefits/
+
+Do you need any other information?
+On March 17, 2021, President Brown announced that Boston University staff will be eligible for two $wellness_leave_info in recognition of the hard work and commitment of the BU staff over the course of the past year.
+
+For more details, visit: https://www.bu.edu/hr/manager-resources/staff-wellness-days/
+
+Do you need any other information?
+The $merit_information is a time to review employee performance and monetarily recognize employees for their performance. The process is jointly managed by the HR Business Partners, the Provost’s Office and Compensation. The Annual Merit Process is administered based on employee type.
+
+For more details, visit: https://www.bu.edu/hr/manager-resources/annual-performance-review-and-merit/
+
+Do you need any other information?
+Employees can manage their $emp_time_hr using Manager Self-Service (MSS). MSS is a BUworks tool used to maintain employees’ position and salary information. Access to MSS depends on your role at the University.
+
+For more details, visit: https://www.bu.edu/hr/manager-resources/employee-time-an/
+
+Do you need any other information?
+$comp_info provides the Boston University community with guidance, tools, and support for pay practices and procedures. Compensation supports the University in attracting, recognizing, and retaining talent by providing effective pay programs and administration. The department works with leaders and managers across the University to ensure informed decision-making, internal equity, external competitiveness, and alignment with organizational objectives at the school, department, and University levels.
+
+For more details, visit: https://www.bu.edu/hr/manager-resources/compensation/
+
+Do you need any other information?
+$exit_process is initiated when an employee terminates or resigns from a position within your department. You need to perform a number of tasks to ensure a smooth exit transition. Employees will be automatically deprovisioned of basic privileges upon termination if the employee has no other BU affiliation. Retired Emeritus faculty retain access to VPN. Terminated employees, including non-emeritus retirees, will no longer have access to Wireless/VPN (retirees can still access BU’s network via Guest Wireless).
+
+For more details, visit: https://www.bu.edu/hr/manager-resources/exit-process/
+
+Do you need any other information?
+As a manager at BU, you play an important role in the University’s success towards $hiring_recruitment. The people you hire will have a direct impact on students, faculty, staff, alumni, external customers, and neighboring communities.
+
+For more details, visit: https://www.bu.edu/hr/manager-resources/hiring-recruiting/
+
+Do you need any other information?
+BU has implemented changes to streamline $emp_onboarding and provisioning for paid staff and faculty. These changes greatly simplify and speed up the process of granting BU email, employee self-service, wireless, and VPN access.
+
+Employees automatically receive their account creation invitation to their personal email account once the BUworks hire form has been submitted and fully approved.
+
+For more details, visit: https://www.bu.edu/hr/manager-resources/onboarding/
+
+Do you need any other information?
+Boston University supports $volunteering activities and welcomes the assistance of volunteers who wish to help the University conduct its academic research, cultural, and athletic activities. However, use of volunteers must occur within the requirements imposed by the federal and state laws regulating employment and immigration and must be consistent with the University’s risk management objectives.
+
+For more details, visit: https://www.bu.edu/hr/manager-resources/volunteers/
+
+Do you need any other information?

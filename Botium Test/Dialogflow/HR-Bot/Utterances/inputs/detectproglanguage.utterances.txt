@@ -1,0 +1,4 @@
+detect_prog_language
+I know $programmingLanguage
+i know $programmingLanguage
+i can code in $programmingLanguage
