@@ -1,0 +1,39 @@
+#me 
+hey there
+
+#bot 
+utter_greet
+
+#me 
+what suggestions do you have?
+
+#bot 
+utter_sugg
+
+#me 
+direction
+
+#bot 
+utter_direc
+BUTTONS CSE/IT/ADMIN OFFICE BLOCK|MECH/CIVIL BLOCK|ECE/EEE/MBA BLOCK|MAIN AUDITORIUM|MINI AUDITORIUM/LIBRARY|PAT/FRESHERS BLOCK|CANTEEN| COLLEGE HOSTEL| CRICKET STADIUM
+
+#me 
+mini_audi
+
+#bot 
+utter_saud
+
+#bot 
+utter_did_that_help
+
+#me 
+affirm
+
+#bot 
+utter_happy
+
+#me 
+deny
+
+#bot 
+utter_cheer_up

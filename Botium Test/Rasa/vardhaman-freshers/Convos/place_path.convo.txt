@@ -1,0 +1,18 @@
+
+#me 
+hello
+
+#bot 
+utter_greet
+
+#me 
+what suggestions do you have?
+
+#bot 
+utter_sugg
+
+#me 
+plac_college
+
+#bot 
+utter_pla

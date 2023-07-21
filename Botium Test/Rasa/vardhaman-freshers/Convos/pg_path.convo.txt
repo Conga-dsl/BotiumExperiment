@@ -1,0 +1,25 @@
+
+#me 
+hey there
+
+#bot 
+utter_greet
+
+#me 
+suggestions
+
+#bot 
+utter_sugg
+
+#me 
+depar_college
+
+#bot 
+utter_dep
+BUTTONS BTECH|PG
+
+#me 
+pg
+
+#bot 
+utter_p

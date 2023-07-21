@@ -1,0 +1,24 @@
+
+#me 
+hey
+
+#bot 
+utter_greet
+
+#me 
+what suggestions do you have?
+
+#bot 
+utter_sugg
+
+#me 
+know_more
+
+#bot 
+utter_web
+
+#me 
+vard_rules
+
+#bot 
+utter_rule

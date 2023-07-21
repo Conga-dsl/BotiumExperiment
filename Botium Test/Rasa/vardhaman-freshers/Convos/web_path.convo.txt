@@ -1,0 +1,17 @@
+#me 
+greet
+
+#bot 
+utter_greet
+
+#me 
+sug
+
+#bot 
+utter_sugg
+
+#me 
+know_more
+
+#bot 
+utter_web

@@ -1,0 +1,17 @@
+#me 
+hey there
+
+#bot 
+utter_greet
+
+#me 
+what suggestions do you have?
+
+#bot 
+utter_sugg
+
+#me 
+fee_structure
+
+#bot 
+utter_fe
