@@ -1,0 +1,2 @@
+Virtual Labs - output 0 
+As an alternative to downloading and installing software on your own computer, find out more about our:  https://www.kommunicate.io/blog/  where you can use software like spss, ArcGIS, Matlab and more... using virtualization technology 🤖

@@ -1,0 +1,2 @@
+Default Welcome Intent - output 0 
+Hi, I'm Admissions Chatbot 🎓  Let's talk about admissions. Use the below 👇 options and proceed!

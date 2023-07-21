@@ -1,0 +1,2 @@
+Veteran Admission - output 0 
+Please make an appointment with an Admission Veteran Liaison Counselor to get further information specific to you.   General information about Veteran Admissions may be found on our website:  https://www.kommunicate.io/product/kompose-bot-builder/

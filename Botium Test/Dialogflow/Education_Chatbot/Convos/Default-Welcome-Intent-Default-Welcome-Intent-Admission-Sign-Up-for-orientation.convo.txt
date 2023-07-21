@@ -1,0 +1,13 @@
+Default Welcome Intent - Default Welcome Intent - Admission - Sign Up for orientation
+
+#me
+Default Welcome Intent
+
+#bot
+Default Welcome Intent - output 0
+
+#me
+Default Welcome Intent - Admission - Sign Up for orientation
+
+#bot
+Default Welcome Intent - Admission - Sign Up for orientation - output 0
