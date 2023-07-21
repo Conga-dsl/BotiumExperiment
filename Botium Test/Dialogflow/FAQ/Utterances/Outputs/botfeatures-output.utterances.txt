@@ -1,0 +1,2 @@
+bot.features - output
+I'm a sample FAQ bot. I can give information about chatbots and how to build them with API.AI.

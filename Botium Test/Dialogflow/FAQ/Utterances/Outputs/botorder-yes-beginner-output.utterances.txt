@@ -1,0 +1,2 @@
+bot.order - yes - beginner - output
+Congratulations on joining our bot's party! Here is how you start: https://docs.api.ai/docs/get-started

@@ -1,0 +1,2 @@
+bot.order - yes - intermediate - output
+Cool. Keep developing your bots with us! Have a look at our guidelines here: https://docs.api.ai/docs/profile-bot-example-agent. Maybe you'll find some useful examples in our Prebuilt Agents, have a look here: https://docs.api.ai/docs/prebuilt-agents

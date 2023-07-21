@@ -1,0 +1,12 @@
+  |$industry
+i1|cars
+i2|connected home
+i3|entertainment
+i4|finance
+i5|flight booking
+i6|food
+i7|hotel booking
+i8|restaurant booking
+i9|sport
+i10|support
+i11|travel

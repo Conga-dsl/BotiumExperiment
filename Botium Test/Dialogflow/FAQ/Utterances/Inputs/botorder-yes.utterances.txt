@@ -1,0 +1,11 @@
+bot.order - yes
+yes
+do it
+sure
+exactly
+confirm
+of course
+sounds good
+that's correct
+I don't mind
+I agree

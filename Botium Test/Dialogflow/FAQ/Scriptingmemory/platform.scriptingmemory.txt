@@ -1,0 +1,21 @@
+  |$platform
+p1|Assistant
+p2|Facebook Messenger
+p3|Kik
+p4|Line
+p5|Skype
+p6|Slack
+p7|Telegram
+p8|Twitter
+p9|Android SDK
+p10|C#
+p11|C++
+p12|HTML
+p13|JavaScript
+p14|iOS SDK
+p15|java
+p16|node js
+p17|php
+p18|python
+p19|ruby
+p20|unity

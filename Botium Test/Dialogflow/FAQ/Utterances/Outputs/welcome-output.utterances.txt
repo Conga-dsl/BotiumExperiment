@@ -1,0 +1,2 @@
+welcome - output
+Hey! I'm a sample FAQ agent. I can talk about conversation apps. What would you like to know?

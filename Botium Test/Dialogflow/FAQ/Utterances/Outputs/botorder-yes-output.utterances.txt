@@ -1,0 +1,2 @@
+bot.order - yes - output
+That's great. Dialogflow provides powerful tools to create conversational interfaces and connect them to your web service. Now, tell me please, how familiar are you with building bots?

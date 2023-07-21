@@ -1,0 +1,3 @@
+bot.order - yes - advanced - output
+Wow! Cool to see a real pro. I hope, you'll find our ML section interesting: https://dialogflow.com/docs/machine-learning
+How can I possibly help such a professional? Let's have a look at our Training Feature to make your future bot even smarter: https://dialogflow.com/docs/training
