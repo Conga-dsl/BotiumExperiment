@@ -1,7 +1,0 @@
-welcome
-
-#me
-welcome
-
-#bot
-welcome - output
