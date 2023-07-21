@@ -1,0 +1,8 @@
+open_position
+I’d like to know which positions are open right now.
+I want to know the available positions now.
+I would like to know the open positions.
+I would like to know the available positions.
+Would you please write me the open positions at RASA
+I’d like to know what are the open positions now at RASA.
+What are the available positions now?

@@ -1,0 +1,4 @@
+role
+A $role one
+A $role position
+A $role one

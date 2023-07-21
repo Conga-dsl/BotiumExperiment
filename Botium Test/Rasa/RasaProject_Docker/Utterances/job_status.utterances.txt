@@ -1,0 +1,7 @@
+job_status
+- Hi, my name is $person. I applied for a job and would like to know when I'll hear back.
+- Hey i am $person, i applied for a job and would like to check my application.
+- Hi, i am $person. I applied for a job and would like to know when I'll hear back.
+- Hi, I'm $person. I would like to check the status of my application.
+- Hi, my name is $person. I want to know my application status.
+- Hi, my name is $person. I applied for a job and would like to know when I'll hear back.

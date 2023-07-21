@@ -1,0 +1,5 @@
+#me
+nep_foreign
+
+#bot
+utter_nep_foreign

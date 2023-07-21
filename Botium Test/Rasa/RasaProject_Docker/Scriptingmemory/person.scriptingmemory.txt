@@ -1,0 +1,7 @@
+  |$person
+p1|Ali
+p2|Sebastian
+p3|Michal
+p4|Kristian
+p5|William
+p6|Chris

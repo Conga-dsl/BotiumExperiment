@@ -1,0 +1,6 @@
+#me
+affirm
+
+
+#bot
+utter_affirm
