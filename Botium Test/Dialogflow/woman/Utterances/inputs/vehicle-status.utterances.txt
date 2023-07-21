@@ -1,0 +1,4 @@
+vehicle status
+Monitor Vehicle Health
+show me on board diagnostics of my vehicle
+check my vehicle status

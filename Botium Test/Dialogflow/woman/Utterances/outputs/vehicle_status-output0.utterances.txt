@@ -1,0 +1,2 @@
+vehicle status - output 0
+Your OBD status :

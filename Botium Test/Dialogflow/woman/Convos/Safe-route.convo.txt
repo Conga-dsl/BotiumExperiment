@@ -1,0 +1,7 @@
+Safe route
+
+#me
+Safe route
+
+#bot
+Safe route - output 0

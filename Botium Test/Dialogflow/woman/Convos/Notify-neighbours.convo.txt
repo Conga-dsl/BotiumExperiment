@@ -1,0 +1,7 @@
+Notify neighbours
+
+#me
+Notify neighbours
+
+#bot
+Notify neighbours - output 0

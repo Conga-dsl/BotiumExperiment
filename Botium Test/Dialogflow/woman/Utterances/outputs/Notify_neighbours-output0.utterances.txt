@@ -1,0 +1,2 @@
+Notify neighbours - output 0
+Nearby Neighbors have been notified! Help is on the way.

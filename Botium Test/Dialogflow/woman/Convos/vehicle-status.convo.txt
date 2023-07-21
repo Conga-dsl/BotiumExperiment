@@ -1,0 +1,7 @@
+vehicle status
+
+#me
+vehicle status
+
+#bot
+vehicle status - output 0

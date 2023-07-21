@@ -1,0 +1,2 @@
+Safe route - output 0
+The safest route to your destination is as follows:

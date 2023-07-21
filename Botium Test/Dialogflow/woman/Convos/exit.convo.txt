@@ -1,0 +1,7 @@
+exit
+
+#me
+exit
+
+#bot
+exit - output 0
