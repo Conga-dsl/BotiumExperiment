@@ -1,0 +1,20 @@
+order.drink110 - order.drink - no
+
+#me
+order.drink110
+
+#bot
+order.drink - asksize - output 0
+
+#me
+$size
+
+#bot
+order.drink - output 0
+
+
+#me
+order.drink - no
+
+#bot
+order.drink - no - output 0

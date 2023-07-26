@@ -1,0 +1,26 @@
+order.snack0 - order.snack - yes - order.snack.different_card1
+
+#me
+order.snack0
+
+#bot
+order.snack - asksnack - output 0
+
+#me
+$snack
+
+#bot
+
+
+#me
+order.snack - yes
+
+#bot
+order.snack - yes - output 0
+
+
+#me
+order.snack.different_card1
+
+#bot
+order.snack.different_card - output 0

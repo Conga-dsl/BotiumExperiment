@@ -1,0 +1,27 @@
+order.drink110 - order.drink - yes - order.drink.different_card1
+
+#me
+order.drink110
+
+#bot
+order.drink - asksize - output 0
+
+#me
+$size
+
+#bot
+order.drink - output 0
+
+
+#me
+order.drink - yes
+
+#bot
+order.drink - yes - output 0
+
+
+#me
+order.drink.different_card1
+
+#bot
+order.drink.different_card - output 0

@@ -1,0 +1,20 @@
+order.last0 - order.last.different_card
+
+#me
+order.last0
+
+#bot
+order.last - askdeliverypickup - output 0
+
+#me
+$deliverypickup
+
+#bot
+order.last - output 0
+
+
+#me
+order.last.different_card
+
+#bot
+order.last.different_card - output 0

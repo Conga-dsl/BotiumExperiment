@@ -1,0 +1,20 @@
+order.drink011 - order.drink - no
+
+#me
+order.drink011
+
+#bot
+order.drink - askdeliverypickup - output 0
+
+#me
+$deliverypickup
+
+#bot
+order.drink - output 0
+
+
+#me
+order.drink - no
+
+#bot
+order.drink - no - output 0

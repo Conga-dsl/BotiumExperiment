@@ -1,0 +1,19 @@
+order.gift_card10 - order.gift_card.same_card
+
+#me
+order.gift_card10
+
+#bot
+order.gift_card - askdeliverypickup - output 0
+
+#me
+$deliverypickup
+
+#bot
+order.gift_card - output 0
+
+#me
+order.gift_card.same_card
+
+#bot
+order.gift_card.same_card - output 0

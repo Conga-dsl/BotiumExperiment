@@ -1,0 +1,20 @@
+order.snack0 - order.snack - no
+
+#me
+order.snack0
+
+#bot
+order.snack - asksnack - output 0
+
+#me
+$snack
+
+#bot
+
+
+#me
+order.snack - no
+
+#bot
+order.snack - no - output 0
+

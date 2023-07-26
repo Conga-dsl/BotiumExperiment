@@ -1,0 +1,20 @@
+order.gift_card01 - order.gift_card.same_card
+
+#me
+order.gift_card01
+
+#bot
+order.gift_card - askcardbalance - output 0
+
+#me
+$cardbalance
+
+#bot
+order.gift_card - output 0
+
+
+#me
+order.gift_card.same_card
+
+#bot
+order.gift_card.same_card - output 0

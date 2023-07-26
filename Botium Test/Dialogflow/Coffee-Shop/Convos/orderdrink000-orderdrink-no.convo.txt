@@ -1,0 +1,31 @@
+order.drink000 - order.drink - no
+
+#me
+order.drink000
+
+#bot
+order.drink - askdeliverypickup - output 0
+
+#me
+$deliverypickup
+
+#bot
+order.drink - askdrink - output 0
+
+#me
+$drink
+
+#bot
+order.drink - asksize - output 0
+
+#me
+$size
+
+#bot
+order.drink - output 0
+
+#me
+order.drink - no
+
+#bot
+order.drink - no - output 0

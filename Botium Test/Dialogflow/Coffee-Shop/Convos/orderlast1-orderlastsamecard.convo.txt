@@ -1,0 +1,14 @@
+order.last1 - order.last.same_card
+
+#me
+order.last1
+
+#bot
+order.last - output 0
+
+
+#me
+order.last.same_card
+
+#bot
+order.last.same_card - output 0

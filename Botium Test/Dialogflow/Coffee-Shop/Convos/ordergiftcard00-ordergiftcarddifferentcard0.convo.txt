@@ -1,0 +1,32 @@
+order.gift_card00 - order.gift_card.different_card0
+
+#me
+order.gift_card00
+
+#bot
+order.gift_card - askcardbalance - output 0
+
+#me
+$cardbalance
+
+#bot
+order.gift_card - askdeliverypickup - output 0
+
+#me
+$deliverypickup
+
+#bot
+order.gift_card - output 0
+
+
+#me
+order.gift_card.different_card0
+
+#bot
+order.gift_card.different_card - askcardnumber - output 0
+
+#me
+$cardnumber
+
+#bot
+order.gift_card.different_card - output 0
