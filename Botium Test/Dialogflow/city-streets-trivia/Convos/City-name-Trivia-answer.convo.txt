@@ -1,0 +1,13 @@
+City.name - Trivia.answer
+
+#me
+City.name
+
+#bot
+City.name - output0
+
+#me
+Trivia.answer
+
+#bot
+Trivia.answer - output0

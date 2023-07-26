@@ -1,0 +1,2 @@
+Default.Welcome.Intent - output0
+Hey! Choose a city and I'll test your street smarts. Your options are New York, Los Angeles, Chicago, and Houston.

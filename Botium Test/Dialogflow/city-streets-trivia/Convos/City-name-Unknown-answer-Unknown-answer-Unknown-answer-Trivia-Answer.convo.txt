@@ -1,0 +1,31 @@
+City.name - Unknown.answer - Unknown.answer - Unknown.answer - Trivia.answer
+
+#me
+City.name
+
+#bot
+City.name - output0
+
+#me
+fallback
+
+#bot
+Unknown.answer - output0
+
+#me
+fallback
+
+#bot
+Unknown.answer - output0
+
+#me
+fallback
+
+#bot
+Unknown.answer - output0
+
+#me
+Trivia.answer
+
+#bot
+Trivia.answer - output0

@@ -1,0 +1,5 @@
+City.name
+Let's do $city
+I'll pick $city
+How about $city?
+$city

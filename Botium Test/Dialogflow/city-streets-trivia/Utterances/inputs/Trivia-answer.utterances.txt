@@ -1,0 +1,6 @@
+Trivia.answer
+How about $street
+I'm not sure but it might be $street
+Maybe it's $street
+I think it's $street
+$street
