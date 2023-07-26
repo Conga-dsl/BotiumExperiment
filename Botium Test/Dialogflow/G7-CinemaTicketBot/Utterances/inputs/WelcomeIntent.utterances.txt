@@ -1,0 +1,9 @@
+WelcomeIntent
+Hey I want to watch a movie in the cinema
+hello hi
+hey there
+hi there
+hey
+hello
+hi
+hello there

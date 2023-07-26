@@ -1,0 +1,2 @@
+WelcomeIntent - output 0
+Hello! Welcome to G7 CinemaTicket chatbot. How can I help you?

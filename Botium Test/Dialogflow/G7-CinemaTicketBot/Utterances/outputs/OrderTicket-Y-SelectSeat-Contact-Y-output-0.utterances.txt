@@ -1,0 +1,3 @@
+OrderTicket-Y-SelectSeat-Contact-Y - output 0
+Superb! Your order is placed now and you can pay for it via the provided link. Here is your Order No.: #192837465
+Great! Here is your Order No.: #192837465 Enjoy your movie!

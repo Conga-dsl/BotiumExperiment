@@ -1,0 +1,19 @@
+OrderTicket11110 - N
+
+#me
+OrderTicket11110
+
+#bot
+OrderTicket - askNumber - output 0
+
+#me
+$mynumber
+
+#bot
+OrderTicket - output 0
+
+#me
+OrderTicket-N
+
+#bot
+OrderTicket-N - output 0

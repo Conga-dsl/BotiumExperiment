@@ -1,0 +1,2 @@
+OrderTicket-Y-SelectSeat-Contact - askPhoneNumber - output 0
+Ok $person . For the last step, please enter your phone number.

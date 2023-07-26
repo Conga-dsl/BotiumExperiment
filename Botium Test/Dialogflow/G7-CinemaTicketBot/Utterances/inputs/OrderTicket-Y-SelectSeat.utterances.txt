@@ -1,0 +1,12 @@
+OrderTicket-Y-SelectSeat
+It should be $SeatSection 
+how about $SeatSection
+$SeatType and $SeatSection seat works for me
+$SeatSection at the $SeatType section
+$SeatSection point
+$SeatSection side
+$SeatType and $SeatSection side
+$SeatSection please
+$SeatType works for me
+I want $SeatSection seat at the $SeatType
+I prefer $SeatType

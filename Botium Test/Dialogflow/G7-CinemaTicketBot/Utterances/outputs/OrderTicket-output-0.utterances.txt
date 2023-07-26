@@ -1,0 +1,2 @@
+OrderTicket - output 0
+Fine. You just ordered $mynumber Tickets for $OrderDay $DayTime session of $Movie movie at the $Theater . Do you confirm this?

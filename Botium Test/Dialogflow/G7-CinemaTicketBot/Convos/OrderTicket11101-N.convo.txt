@@ -1,0 +1,19 @@
+OrderTicket11101 - N
+
+#me
+OrderTicket11101
+
+#bot
+OrderTicket - askDayTime - output 0
+
+#me
+$DayTime
+
+#bot
+OrderTicket - output 0
+
+#me
+OrderTicket-N
+
+#bot
+OrderTicket-N - output 0

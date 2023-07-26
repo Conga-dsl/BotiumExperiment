@@ -1,0 +1,37 @@
+OrderTicket01000 - OrderTicket-Cancel
+
+#me
+OrderTicket01000
+
+#bot
+OrderTicket - askTheater - output 0
+
+#me
+$Theater
+
+#bot
+OrderTicket - askOrderDay - output 0
+
+#me
+$OrderDay
+
+#bot
+OrderTicket - askDayTime - output 0
+
+#me
+$DayTime
+
+#bot
+OrderTicket - askNumber - output 0
+
+#me
+$mynumber
+
+#bot
+OrderTicket - output 0
+
+#me
+OrderTicket-Cancel
+
+#bot
+OrderTicket-Cancel - output 0

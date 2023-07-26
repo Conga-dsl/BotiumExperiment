@@ -1,0 +1,39 @@
+OrderTicket
+purchase ticket
+buy ticket
+buy a ticket
+i want to buy a ticket
+$Movie is my favourate movie
+$OrderDay works for me
+$DayTime I think
+I want to buy $mynumber tickets for $Movie movie
+i want to buy $mynumber ticket
+I want to buy some tickets
+just $mynumber please
+$Movie  in $Theater for morning $OrderDay
+$mynumber tickets for $Movie in $Theater cinema for $OrderDay
+I like to watch $Movie 
+i choose $Theater
+I am going to order $mynumber ticket
+$mynumber tickets
+$mynumber please
+$mynumber tickets for $Movie in $Theater for the $DayTime $OrderDay
+I want to buy $mynumber tickets for $Movie in cineplex for $OrderDay $DayTime
+I want to watch $Movie 
+I want to buy tickets for $mynumber
+purchase some ticket
+purchase $mynumber ticket
+cinema ticket
+Movie ticket
+buy a film ticket
+I wanna order Movie ticket
+I want to watch a movie at the cinema
+$OrderDay $DayTime in $Theater cinema $Movie
+$OrderDay's movie
+$OrderDay $DayTime $Movie at $Theater
+I want to watch a film
+I want to watch a movie
+I want $mynumber ticket
+Buy $mynumber ticket
+I want to purchase $mynumber ticket
+I want to buy movie ticket

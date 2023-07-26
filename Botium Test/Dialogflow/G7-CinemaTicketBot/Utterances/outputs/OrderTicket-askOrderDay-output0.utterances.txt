@@ -1,0 +1,2 @@
+OrderTicket - askOrderDay - output 0
+Great Choice! Which day do you want to book?

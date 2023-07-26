@@ -1,0 +1,2 @@
+OrderTicket - askDayTime - output 0
+And, which session do want to attend? Morning, afternoon, evening or night?

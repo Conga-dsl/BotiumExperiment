@@ -1,0 +1,3 @@
+OrderTicket11110
+$OrderDay $DayTime in $Theater cinema $Movie
+$OrderDay $DayTime $Movie at $Theater

@@ -1,0 +1,31 @@
+OrderTicket11111 - Y - SelectSeat10 - Cancel
+
+#me
+OrderTicket11111
+
+#bot
+OrderTicket - output 0
+
+#me
+OrderTicket-Y
+
+#bot
+OrderTicket-Y - output 0
+
+#me
+OrderTicket-Y-SelectSeat10
+
+#bot
+OrderTicket-Y-SelectSeat - askSeatSection - output 0
+
+#me
+$SeatSection
+
+#bot
+OrderTicket-Y-SelectSeat - output 0
+
+#me
+OrderTicket-Y-SelectSeat-Cancel
+
+#bot
+OrderTicket-Y-SelectSeat-Cancel - output 0

@@ -1,0 +1,2 @@
+OrderTicket11111
+$mynumber tickets for $Movie in $Theater for the $DayTime $OrderDay

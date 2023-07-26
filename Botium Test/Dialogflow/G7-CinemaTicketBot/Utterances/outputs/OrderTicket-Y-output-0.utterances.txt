@@ -1,0 +1,2 @@
+OrderTicket-Y - output 0
+Perfect! Now we can set your seat zone. Where do you want to seat? The standard floor or the Balcony?

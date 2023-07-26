@@ -1,0 +1,7 @@
+Default Fallback Intent
+
+#me
+fallback
+
+#bot
+default_fallback_intent - output 0

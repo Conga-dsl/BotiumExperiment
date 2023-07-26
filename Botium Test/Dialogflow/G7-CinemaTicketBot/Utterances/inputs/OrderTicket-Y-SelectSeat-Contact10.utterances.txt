@@ -1,0 +1,6 @@
+OrderTicket-Y-SelectSeat-Contact10
+$person
+reserve the seats for $person
+I am $person
+Yeah. set if for $person
+Yes Sure. the order is in the name of $person

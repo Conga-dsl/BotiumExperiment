@@ -1,0 +1,7 @@
+WelcomeIntent
+
+#me
+WelcomeIntent
+
+#bot
+WelcomeIntent - output 0

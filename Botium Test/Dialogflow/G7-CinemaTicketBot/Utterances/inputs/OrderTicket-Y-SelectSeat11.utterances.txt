@@ -1,0 +1,5 @@
+OrderTicket-Y-SelectSeat11
+$SeatType and $SeatSection seat works for me
+$SeatSection at the $SeatType section
+$SeatType and $SeatSection side
+I want $SeatSection seat at the $SeatType

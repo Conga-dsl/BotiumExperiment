@@ -1,0 +1,10 @@
+            |$Theater                               |$Movie             |$OrderDay      |$DayTime  |$mynumber     
+Theater1    |SilverCity Windsor Cinemas             |Dune               |Today          |Morning   |3    
+Theater2    |Cineplex Odeon Devonshire Mall Cinema  |No Time To Die     |Tomorrow       |Afternoon |1
+Theater3    |Imagine Cinemas Lakeshore              |House of Gucci     |Next Sunday    |Evening   |2 
+Theater4    |SilverCity Windsor Cinemas             |Spencer            |Next Monday    |Night     |5 
+Theater5    |Cineplex Odeon Devonshire Mall Cinema  |Last Night in Soho |Next Tuseday   |Morning   |3
+Theater6    |Imagine Cinemas Lakeshore              |Dune               |Next Wednesday |Afternoon |1
+Theater7    |SilverCity Windsor Cinemas             |No Time To Die     |Next Turseday  |Evening   |2  
+Theater8    |Cineplex Odeon Devonshire Mall Cinema  |House of Gucci     |Next Friday    |Night     |5  
+Theater9    |Imagine Cinemas Lakeshore              |Spencer            |Next Saturday  |Morning   |3 

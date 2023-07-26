@@ -1,0 +1,3 @@
+OrderTicket-Y-SelectSeat10
+$SeatType works for me
+I prefer $SeatType

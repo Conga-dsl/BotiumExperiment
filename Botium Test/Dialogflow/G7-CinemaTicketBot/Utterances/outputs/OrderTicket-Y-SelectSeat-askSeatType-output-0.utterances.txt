@@ -1,0 +1,2 @@
+OrderTicket-Y-SelectSeat - askSeatType - output 0
+What type of seat do you like? Standard or Balcony?

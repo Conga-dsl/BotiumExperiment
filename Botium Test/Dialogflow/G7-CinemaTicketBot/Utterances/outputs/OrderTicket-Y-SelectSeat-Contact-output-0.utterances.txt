@@ -1,0 +1,2 @@
+OrderTicket-Y-SelectSeat-Contact - output 0
+Super! So the order is for $person with the contact number of $phoneNumber . Do you confirm it?

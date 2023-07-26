@@ -1,0 +1,2 @@
+OrderTicket-Y-SelectSeat - output 0
+Ok! $SeatType seat in $SeatSection! Great Choice. Your seats will be reserved for 15 mins. If we have your Name and Phone Number we can finalize it. Could you please enter your name?

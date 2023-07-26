@@ -1,0 +1,4 @@
+        |$SeatSection   |$SeatType    |$person  |$phoneNumber           
+Seat1   |Front Section  |Standard     |Maryam   |4567891234  
+Seat2   |Back Section   |Balcony      |Ezekiel  |1111111111 
+Seat3   |Center Section |Balcony      |Maryam   |1112345678

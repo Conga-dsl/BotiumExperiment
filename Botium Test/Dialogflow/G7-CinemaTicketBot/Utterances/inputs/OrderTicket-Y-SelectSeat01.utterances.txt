@@ -1,0 +1,6 @@
+OrderTicket-Y-SelectSeat01
+It should be $SeatSection 
+how about $SeatSection
+$SeatSection point
+$SeatSection side
+$SeatSection please

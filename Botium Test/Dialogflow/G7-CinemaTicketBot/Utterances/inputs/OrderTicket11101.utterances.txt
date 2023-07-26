@@ -1,0 +1,2 @@
+OrderTicket11101
+$mynumber tickets for $Movie in $Theater cinema for $OrderDay

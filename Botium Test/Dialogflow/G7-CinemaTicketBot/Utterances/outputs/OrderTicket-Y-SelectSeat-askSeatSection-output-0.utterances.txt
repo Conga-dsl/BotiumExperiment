@@ -1,0 +1,2 @@
+OrderTicket-Y-SelectSeat - askSeatSection - output 0
+Good Choice! Where do you prefer to seat in the theater salon?  Front Section, Back Section or the Center Section?
