@@ -1,0 +1,19 @@
+order.drink1
+do you have $iced $drink
+can I get a $size $iced $drink with $milktype milk
+can I get $drink
+I want a $drink to go
+$drink
+$amount $size $drink
+I want $iced $drink
+I'd like a $drink $deliverypickup
+I need a cup of $drink
+$amount $drink please
+some $drink please
+I'd like to order 
+people need $drink
+$amount $size $drink please
+I'd like a $drink $deliverypickup
+order $drink
+can I get a $size $iced $drink with $type milk
+can I get a $size cup of $drink

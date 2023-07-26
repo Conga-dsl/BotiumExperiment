@@ -1,0 +1,2 @@
+order.snack.different_card - askcardnumber - output 0
+Tell me the new card number please.

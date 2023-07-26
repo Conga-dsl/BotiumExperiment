@@ -1,0 +1,3 @@
+order.gift_card.different_card1
+another one: $cardnumber
+no this one: $cardnumber

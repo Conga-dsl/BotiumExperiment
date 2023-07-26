@@ -1,0 +1,15 @@
+        |$snack               |$snackSize   |$snackTopping  |$flavor            |$snackAmount   |$snackDeliverypickup 
+snack1  |Bagel                |large        |caramel        |almond             |2              |delivery
+snack2  |Caesar Salad         |medium       |chocolate      |blueberry          |3              |pick-up
+snack3  |Carrot Cake          |small        |cinnamon       |caramel            |three          |delivery
+snack4  |Croissant            |large        |whipped cream  |cheese             |6              |pick-up
+snack5  |Cupcake              |medium       |caramel        |cream cheese       |2              |delivery
+snack6  |Danish               |small        |chocolate      |hazelnut           |3              |pick-up
+snack7  |Deep Dish Cake       |large        |cinnamon       |peppermint         |three          |delivery
+snack8  |Doughnut             |medium       |whipped cream  |raspberry          |6              |pick-up
+snack9  |Greek Salad          |small        |caramel        |strawberry         |2              |delivery
+snack10 |Mediterranean Salad  |large        |chocolate      |sugar-free vanilla |3              |pick-up
+snack11 |Muffin               |medium       |cinnamon       |vanilla            |three          |delivery
+snack12 |Plum Cake            |small        |whipped cream  |almond             |6              |pick-up
+snack13 |Salad                |large        |caramel        |blueberry          |2              |delivery
+snack14 |Strudel              |medium       |chocolate      |caramel            |3              |pick-up

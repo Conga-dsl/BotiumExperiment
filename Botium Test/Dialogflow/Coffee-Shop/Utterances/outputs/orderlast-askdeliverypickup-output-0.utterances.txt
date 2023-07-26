@@ -1,0 +1,2 @@
+order.last - askdeliverypickup - output 0
+Will it be for delivery or pick-up?

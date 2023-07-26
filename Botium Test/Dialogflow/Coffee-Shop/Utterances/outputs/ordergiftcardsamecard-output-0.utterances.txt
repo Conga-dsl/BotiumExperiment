@@ -1,0 +1,2 @@
+order.gift_card.same_card - output 0
+Okay. All set.

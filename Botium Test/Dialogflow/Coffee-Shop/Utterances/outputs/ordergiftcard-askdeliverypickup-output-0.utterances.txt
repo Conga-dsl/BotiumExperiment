@@ -1,0 +1,2 @@
+order.gift_card - askdeliverypickup - output 0
+Do you want your gift card to be delivered or you want to pick it up yourself?

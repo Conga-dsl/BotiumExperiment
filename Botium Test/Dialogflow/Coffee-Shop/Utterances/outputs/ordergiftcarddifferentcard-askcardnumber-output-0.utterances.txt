@@ -1,0 +1,2 @@
+order.gift_card.different_card - askcardnumber - output 0
+Tell me the card number please.

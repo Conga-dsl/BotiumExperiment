@@ -1,0 +1,3 @@
+	|$cardbalance
+cb1|50$
+cb2|100$

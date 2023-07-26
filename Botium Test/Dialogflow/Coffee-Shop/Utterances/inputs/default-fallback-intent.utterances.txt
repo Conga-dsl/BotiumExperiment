@@ -1,0 +1,9 @@
+Default Fallback Intent
+can I get three bedroom apartments please
+I don't want to order the same
+I want to order a flight to New York
+I want to be able to make a good cappuccino
+I don't like cappuccino
+I'd love to get a bag of almonds please
+I want to order a credit card
+I don't want to order a gift cards

@@ -1,0 +1,12 @@
+        |$drink             |$size  |$amount    |$milktype      |$deliverypickup 
+drink1  |Americano          |large  |2          |almond milk    |delivery
+drink3  |Cappuccino         |small  |3          |non fat milk   |delivery
+drink4  |Cocoa              |large  |6          |regular milk   |pick-up
+drink5  |Espresso           |medium |2          |soy milk       |delivery
+drink6  |Espresso Macchiato |small  |3          |almond milk    |pick-up
+drink7  |Espresso con Panna |large  |4          |cream          |delivery
+drink8  |Hot Chocolate      |medium |6          |non fat milk   |pick-up
+drink9  |Latte              |small  |2          |regular milk   |delivery
+drink10 |Macchiato          |large  |3          |soy milk       |pick-up
+drink11 |Tea                |medium |4          |almond milk    |delivery
+drink12 |coffee             |small  |6          |cream          |pick-up

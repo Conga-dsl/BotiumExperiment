@@ -1,0 +1,12 @@
+order.drink - output 0
+Your order is: $size $drink with $milktype and you want a $deliverypickup. Is that right?
+Your order is: $size $drink with $milktype and you want a $deliverypickup. Is that right?
+You've ordered $size $drink and you want a $deliverypickup. Correct?
+You want $amount $size $drink with $topping and you want a $deliverypickup. Is that right?
+You want $amount $size $drink with $milktype and you want a $deliverypickup. Is that right?
+You want $amount $size $drink and you want a $deliverypickup. Is that right?
+You want $amount $size $drink and you want a $deliverypickup. Is that right?
+You want $number $size $drink with $topping and you want a $deliverypickup. Is that right?
+You want $number $size $drink with $milktype and you want a $deliverypickup. Is that right?
+You want $number $size $drink and you want a $deliverypickup. Is that right?
+You want $number $size $drink and you want a $deliverypickup. Is that right?

@@ -1,0 +1,2 @@
+order.gift_card - askcardbalance - output 0
+Gift card is an excellent present! How much money should we put on the card?

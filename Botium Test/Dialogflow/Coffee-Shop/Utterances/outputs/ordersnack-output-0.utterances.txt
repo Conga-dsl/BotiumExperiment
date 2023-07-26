@@ -1,0 +1,7 @@
+order.snack - output 0
+Your order is: $size $snack with $topping and you want a $deliverypickup. Is that right?
+Your order is: $size $snack with $flavor and you want a $deliverypickup. Is that right?
+You've ordered $size $snack with $topping and you want a $deliverypickup. Correct?
+You've ordered $size $snack with $flavor and you want a $deliverypickup. Correct?
+You've ordered $size $snack and you want a $deliverypickup. Correct?
+You've ordered $snack and you want a $deliverypickup. Correct?

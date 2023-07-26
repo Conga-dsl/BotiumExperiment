@@ -1,0 +1,2 @@
+order.last.different_card - output 0
+All set! Enjoy!

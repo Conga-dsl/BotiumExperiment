@@ -1,0 +1,15 @@
+order.gift_card.different_card
+different
+definitely not
+not interested
+another one: $cardnumber
+no
+I don't want that
+thanks but no
+different card
+another one
+I disagree
+don't do it
+no this one: $cardnumber
+not really
+I don't think so

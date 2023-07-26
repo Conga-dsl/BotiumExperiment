@@ -1,0 +1,6 @@
+order.drink011
+can I get a $size $iced $drink with $milktype milk
+$amount $size $drink
+$amount $size $drink please
+can I get a $size $iced $drink with $milktype milk
+can I get a $size cup of $drink

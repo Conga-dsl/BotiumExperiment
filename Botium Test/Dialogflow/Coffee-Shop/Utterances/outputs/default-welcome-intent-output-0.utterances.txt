@@ -1,0 +1,2 @@
+Default Welcome Intent - output 0
+Good day! I have a lot coffee and snacks. What can I get you to drink?

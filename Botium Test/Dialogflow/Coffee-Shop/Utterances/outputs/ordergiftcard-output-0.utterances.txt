@@ -1,0 +1,2 @@
+order.gift_card - output 0
+Will you use the same card?

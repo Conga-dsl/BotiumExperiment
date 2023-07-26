@@ -1,0 +1,10 @@
+order.gift_card
+order gift card
+I want to order a gift card with $cardbalance on it
+I'm looking for a present
+I want to buy a gift card as a present
+I want a gift card
+$cardbalance gift card please
+I need a present
+let's buy a gift card
+$deliverypickup the gift card to me

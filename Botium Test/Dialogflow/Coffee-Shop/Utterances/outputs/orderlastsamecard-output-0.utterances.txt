@@ -1,0 +1,2 @@
+order.last.same_card - output 0
+Okay. All set!

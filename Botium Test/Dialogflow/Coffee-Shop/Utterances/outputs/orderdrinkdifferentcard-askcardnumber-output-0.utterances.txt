@@ -1,0 +1,2 @@
+order.drink.different_card - askcardnumber - output 0
+What is the new card number?

@@ -1,0 +1,15 @@
+order.snack1
+$snackAmount $snack please
+$snack
+$snack with $flavor
+$snackDeliverypickup a $snack
+$flavor $snack please
+do you have $snack
+I'd love to get a $snack with $flavor
+how about a $snackSize $snack
+I want a $snack
+I'd love to get a $snack with $flavor
+can I get $snackAmount $snack please
+$snack
+I want a $snackAmount $snackSize $snackTopping $snack please
+I want a $snackSize $snackTopping $snack
