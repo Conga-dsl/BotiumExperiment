@@ -1,0 +1,7 @@
+  |$name|$email
+row1|Monica|monica@friends.com
+row2|Rachel|rachel@friends.com
+row3|Phoebe|phoebe@friends.com
+row4|Ross|ross@friends.com
+row5|Chandler|chandler@friends.com
+row6|Joe|joe@friends.com

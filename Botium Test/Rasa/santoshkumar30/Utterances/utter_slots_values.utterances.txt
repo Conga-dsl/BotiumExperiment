@@ -1,0 +1,2 @@
+utter_slots_values
+Your filled details is: - name: $name - email: $email - number: $number   
