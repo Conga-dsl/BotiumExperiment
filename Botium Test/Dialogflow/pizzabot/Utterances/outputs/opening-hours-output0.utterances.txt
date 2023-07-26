@@ -1,0 +1,2 @@
+opening.hours - output 0
+We are open from 10 am to 9 pm every day. Can I help you place an order ?

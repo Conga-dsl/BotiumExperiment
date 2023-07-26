@@ -1,0 +1,7 @@
+order.drink
+one $flavor $drink please
+I want one $flavor $drink with $milkType
+i want a $size $flavor $drink
+$amount $size $milkType $flavor $drink
+i'd like to order a raspberry $drink please
+I would like a $flavor $drink

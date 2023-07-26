@@ -1,0 +1,7 @@
+opening.hours
+
+#me
+opening.hours
+
+#bot
+opening.hours - output 0

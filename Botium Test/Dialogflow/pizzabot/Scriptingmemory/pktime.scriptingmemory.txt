@@ -1,0 +1,4 @@
+ 	|$pktime
+pktime1	|1
+pktime2	|noon
+pktime3	|1 PM

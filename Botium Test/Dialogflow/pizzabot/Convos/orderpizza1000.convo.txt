@@ -1,0 +1,25 @@
+order.pizza1000
+
+#me
+order.pizza1000
+
+#bot
+order.pizza - asktime - output 0
+
+#me
+$pktime
+
+#bot
+order.pizza - askdate - output 0
+
+#me
+$pkdate
+
+#bot
+order.pizza - askpizzaTopping - output 0
+
+#me
+$pizzaTopping
+
+#bot
+order.pizza - output 0

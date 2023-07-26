@@ -1,0 +1,9 @@
+order.pizza
+I want to order a $size pizza
+I want a $pizzaTopping pizza
+I'd like to order a pizza for pickup in $pktime
+I want a pizza with $pizzaTopping and mushroom
+I'd like a $size pizza with $pizzaTopping
+I want to order a $size pizza with $pizzaTopping only
+I want to order a $pizzaTopping pizza for $pktime $pkdate
+can I order a $pizzaTopping pizza for pickup $pkdate $pktime ?

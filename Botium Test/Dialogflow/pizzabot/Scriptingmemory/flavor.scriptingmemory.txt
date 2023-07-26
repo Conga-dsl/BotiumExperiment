@@ -1,0 +1,8 @@
+        |$flavor             
+flavor1  |chocolate         
+flavor2  |vanilla
+flavor3  |strawberry
+flavor4  |caramel
+flavor5  |blueberry
+flavor6  |raspberry
+flavor7  |peppermint

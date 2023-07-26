@@ -1,0 +1,3 @@
+        |$drink             
+drink1  |smoothie         
+drink2  |milkshake

@@ -1,0 +1,5 @@
+        |$milkType             
+milkType1  |regular milk        
+milkType2  |low fat milk
+milkType3  |non fat milk
+milkType4  |soy milk

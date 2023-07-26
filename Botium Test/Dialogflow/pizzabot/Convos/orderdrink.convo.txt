@@ -1,0 +1,7 @@
+order.drink
+
+#me
+order.drink
+
+#bot
+order.drink - output 0

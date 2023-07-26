@@ -1,0 +1,5 @@
+opening.hours
+When do you close ?
+Are you open today ?
+Are you open right now ?
+What time do you open ?

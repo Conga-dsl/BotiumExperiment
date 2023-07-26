@@ -1,0 +1,12 @@
+        |$pizzaTopping             
+pizzaTopping1  |pepper         
+pizzaTopping2  |mushroom
+pizzaTopping3  |vegetarian
+pizzaTopping4  |cheese
+pizzaTopping5  |jalapeno
+pizzaTopping6  |sausage
+pizzaTopping7  |onion
+pizzaTopping8  |ham
+pizzaTopping9 |pineapple
+pizzaTopping10 |chicken
+ 
